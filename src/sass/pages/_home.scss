@@ -165,9 +165,3 @@ p {
 :is(h2, h3):not(:first-child) {
     margin-top: 2em;
 }
-
-@media screen and (min-width: 350px) {
-    .nav-list {
-        font-size: 16pt;
-    }
-}

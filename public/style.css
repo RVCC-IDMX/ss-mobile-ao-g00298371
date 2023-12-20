@@ -256,9 +256,4 @@ p {
   margin-top: 2em;
 }
 
-@media screen and (min-width: 350px) {
-  .nav-list {
-    font-size: 16pt;
-  }
-}
 /* main */
