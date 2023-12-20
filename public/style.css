@@ -181,6 +181,11 @@ nav ul {
   grid-gap: 1rem;
 }
 
+p {
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
+}
+
 :is(h1, h2, h3) {
   line-height: 1.2;
 }
