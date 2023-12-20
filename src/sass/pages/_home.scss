@@ -46,14 +46,14 @@
 }
 
 html {
-    background-color: hsl(53, 100%, 95%);
+    background-color: hsl(34, 19%, 67%);
 }
 
 body {
     margin: 0;
     padding: 1rem;
     line-height: 1.5;
-    color: hsl(240, 24%, 14%);
+    color: hsl(0, 0, 0);
 }
 
 body h1 {
@@ -126,14 +126,14 @@ svg {
 .skip-link {
     font-family: "Rockwell";
     font-size: 18pt;
-    color: hsl(68, 10%, 56%);
+    color: hsl(0, 4%, 51%);
 }
 
 a,
 li a,
 p a {
     text-decoration: none;
-    color: hsl(156, 92%, 24%);
+    color: hsl(185, 72%, 23%);
     font-weight: 600;
 }
 
@@ -144,13 +144,13 @@ nav ul {
     padding: 2;
     margin: 0;
     grid-gap: 1rem;
-    background-color: hsl(68, 10%, 56%);
+    background-color: hsl(0, 4%, 47%);
     border-radius: 1rem;
 }
 
 nav ul a {
     text-decoration: none;
-    color: white;
+    color: hsl(0, 0%, 100%);
 }
 
 p {
